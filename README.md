@@ -1,0 +1,1 @@
+# Smart-Journal-Assistant-with-Google-Keep-and-Gemini
